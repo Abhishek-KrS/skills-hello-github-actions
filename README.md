@@ -9,7 +9,7 @@
 
 # Hello GitHub Actions 👋
 
-_Create a GitHub Action and use it in a workflow._
+_Creates a GitHub Action and uses it in a workflow._
 
 </header>
 
@@ -20,16 +20,15 @@ _Create a GitHub Action and use it in a workflow._
 
 ## Finish
 
-_Congratulations friend, you've completed this course!_
 
 <img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right>
 
-Here's a recap of all the tasks you've accomplished in your repository:
+Here's a recap of all the tasks I've accomplished in my repository:
 
-- You've created your first GitHub Actions workflow file.
-- You learned where to make your workflow file.
-- You created an event trigger, a job, and steps for your workflow.
-- You're ready to automate anything you can dream of.
+- I've created my first GitHub Actions workflow file.
+- I learned where to make my workflow file.
+- I created an event trigger, a job, and steps for my workflow.
+- I'm ready to automate anything I can dream of.
 
 ### What's next?
 
